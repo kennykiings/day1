@@ -1,0 +1,29 @@
+img{ width: 15%; border-radius: 50%;
+    border: 1px solid gray;  /*margin: 10px auto 10px 50%;*/} 
+
+#piclist{ width: 700px;}
+
+
+ #mum{ margin:  10px auto 10px 40%; }
+
+ h1 { margin:  0 auto 0 30% ; width: 500px;}
+
+ .hrr { background-color: #1d2124;
+      box-shadow:0 0 10px 1px gray; border-top: 2.5px solid}
+
+ body { border: 15px solid #bdc3c7;
+     max-width: 700px; 
+     width: 75%; 
+     margin: 10px auto;
+ 	 padding: 30px;
+     font-family: Source Sans Pro;
+     background-image: url(mumwallpaper8.jpg);
+     background-size: 50%;
+     background-color: ;
+     background-repeat: no-repeat;
+     background-position: 50% 50%;
+ }
+ .address{ border-left: 4px solid black}
+
+/*#top{ margin:  0 auto 0 auto ;}
+.mum{ margin:  0 auto 0 auto ;}*/
